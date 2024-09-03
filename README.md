@@ -14,6 +14,7 @@ Not sure this is fully permitted by the uni, if you use this script, definitly D
 - edit the variable COURSE_WEBSITE in the moduleToPDF.py
 - run the ./setup.sh script
 - close all chrome windows and launch chrome with `--remote-debugging-port=9222`
+- `source venv/bin/activate
 - run `python3 moduleToPdf.py`
 
 - doublecheck the newly created pdf (`coursework_ebook_final.pdf`) countains everything you expect, in an logical order!
