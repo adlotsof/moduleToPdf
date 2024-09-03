@@ -1,0 +1,7 @@
+selenium==4.24.0
+pdfkit==1.0.0
+PyPDF2==3.0.1
+beautifulsoup4==4.12.3
+chromedriver-autoinstaller
+selenium-wire==5.1.0
+reportlab
